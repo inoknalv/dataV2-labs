@@ -1,0 +1,6 @@
+
+*.log
+*.DS_Store
+.ipynb_checkpoints/
+client_secret.json
+twitter_secret.json
